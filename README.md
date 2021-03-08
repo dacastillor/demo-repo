@@ -6,6 +6,3 @@ Description of topics
 
 Subtopics
 
-## New development
-
-Bought two more courses, open index.html to see a h1 header
